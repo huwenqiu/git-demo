@@ -1,4 +1,4 @@
-hello atguigu!
+hello atguigu! hot-fix02
 hello atguigu!123
 hello atguigu!33333
 hello atguigu!
@@ -8,8 +8,11 @@ hello atguigu!
 hello atguigu!
 hello atguigu!
 hello atguigu!
+hello atguigu! hot-fix test
 hello atguigu!
+hello atguigu! hot-fix02
 hello atguigu!
+<<<<<<< HEAD
 hello atguigu! master test
 hello atguigu! master-third
-hello atguigu!
+hello atguigu! hot-fix02
