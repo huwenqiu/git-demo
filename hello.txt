@@ -20,3 +20,4 @@ hello atguigu! hot-fix02
 测试一下ssh，随便写写
 再测试一下ssh，随便写写
 辟邪剑谱果然厉害
+测试gitee跟踪github本地仓库
